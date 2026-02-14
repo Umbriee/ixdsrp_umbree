@@ -1,0 +1,8 @@
+"ixdsrp"
+{
+	"base"		"helix"
+	"title"		"IX Dead Space RP"
+	"author"	"Lambda Group"
+	"category"	"rp"
+	"menusystem" "1"
+}
